@@ -2,7 +2,7 @@
 
 This project uses supervised machine learning techniques to detect fraudulent credit card transactions. The dataset is highly imbalanced, so special preprocessing steps like normalization and SMOTE (Synthetic Minority Oversampling Technique) are used to improve model performance.
 
-📁 Dataset
+📁 Dataset.
 The dataset contains credit card transactions made by European cardholders in September 2013. It includes 284,807 transactions with 31 features, and the target variable Class indicates fraud (1) or genuine (0) transactions.
 
 Features are PCA-anonymized (V1–V28)
